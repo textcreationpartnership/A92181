@@ -1,0 +1,362 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sad suffering case of Major General Rob. Overton, prisoner in the Isle of Jersey, stated, and presented to the serious consideration of those who are either of a pious or publick spirit. By J.R.</title>
+            <author>J. R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92181</idno>
+            <idno type="STC">Wing R32</idno>
+            <idno type="STC">Thomason E972_4</idno>
+            <idno type="STC">ESTC R203341</idno>
+            <idno type="EEBO-CITATION">99863316</idno>
+            <idno type="PROQUEST">99863316</idno>
+            <idno type="VID">115508</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92181)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115508)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 144:E972[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sad suffering case of Major General Rob. Overton, prisoner in the Isle of Jersey, stated, and presented to the serious consideration of those who are either of a pious or publick spirit. By J.R.</title>
+                  <author>J. R.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for L. Chapman at the Crown in Popes-Head-Ally,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "march 3d 1658 March. 3."; the 9 in the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Overton, Robert, ca. 1609-ca. 1668.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115508:1" rendition="simple:additions"/>
+            <p>The ſad Suffering CASE Of Major-General ROB. OVERTON, Priſoner In the Iſle of
+<hi>JERSEY,</hi> STATED, AND Preſented to the ſerious Conſideration of Thoſe who are either
+of a Pious or Publick Spirit.</p>
+            <p>By <hi>J. R.</hi>
+            </p>
+            <q>
+               <p>Is Iſrael a ſervant? Is he a home-born ſlave? Why is he ſpoiled?</p>
+               <bibl>
+                  <hi>Jer. 2.14.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>When the Righteous are in authority, the People rejoyce: but when the Wicked beareth rule, the
+People mourn,
+<bibl>
+                     <hi>Prov. 29.2.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>L. Chapman</hi> at the Crown in Popes-Head-Ally, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115508:2"/>
+            <pb n="1" facs="tcp:115508:2"/>
+            <head>The ſad and Suffering Caſe Of Major General OVERTON, Priſoner In the Iſle of
+<hi>Jerſey,</hi> &amp;c.</head>
+            <p>SLavery and Servitude is not a greater ſuffering to a Noble and ingenuous Spirit, then
+ſenceleſneſs there<g ref="char:EOLhyphen"/>in, and ſuccumbencie thereunto, is a ſin in ſuch as have deeply dyed
+their reſcue out of bondage in Blood: and yet for ſome yeers paſt, after the Lord had
+ſignally ſaved us from thoſe inundations which ſeem'd to threaten the ruine of all our
+Rights and Liberties, how mean<g ref="char:EOLhyphen"/>ly and ſervily have we ſince truckled under far worſe
+incurſions upon the Priviledges both of Parliament and People, and ſuffered our ſelves to be
+cozened out of that by fraud, which we had conquered by force? inſomuch that thoſe who ſome
+years ſince could not countenance the leaſt oppreſſion, can now comply with the greateſt,
+and juſtifie that under one, which they condemned in a<g ref="char:EOLhyphen"/>nother: Thoſe who formerly were rather
+readie to run into a Civil War then permit a few Members to be pull'd out of Parliament, have
+ſince ſilently ſeen whole Parlia<g ref="char:EOLhyphen"/>ments
+<pb n="2" facs="tcp:115508:3"/>
+turn'd out at pleaſure; and have been more a<g ref="char:EOLhyphen"/>fraid of the frowns of one man, then formerly of the
+force of another; ſuch as lowdly lifted up their voices againſt the impriſoning of perſons
+without juſt cauſe, are now ſilent under the ſufferings of ſome with<g ref="char:EOLhyphen"/>out any cauſe; and
+can ſtand by and behold as uncon<g ref="char:EOLhyphen"/>cern'd (and yet know not how ſoon it may be their own Caſe)
+the barbarous bondage and baniſhment of thoſe who have loſt their Blood, and hazarded their
+lives for them in the very ſame things, for which they now ſuffer: and therefore if the Lord
+ſhould puniſh our Perſons and Poſterities with ſlavery and ſervitude, for the
+ſlaviſhneſs and ſervileneſs of our Spirits, it will be a moſt righteous judgment, and
+we cannot but confeſs, that we have juſtly deſerved the ſame.</p>
+            <p>But however this is too generally and truly the Spi<g ref="char:EOLhyphen"/>rit and temper of moſt, yet the Lord hath
+reſerved unto himſelf ſome, who retain a publique Spirit, and have with Noble Heathen
+<hi>Cato</hi> (in a manly ſenſe) choſen rather to be their Countries Sacrifice, then any
+<hi>Caeſars</hi> ſlave; and upon a Chriſtian and Religious account, have thought it much
+better for them to be <hi>of an humble Spirit with the lowly, then to divide the ſpoil with the
+proud.</hi> Theſe are the Salt of our <hi>Engliſh</hi> Earth, which hath not loſt its
+ſavour; and indeed, had it not been for ſuch, we might before now have been more then equally
+exemplar with <hi>Sodom</hi> in puniſhment, as we have exceeded that place in ſin: and yet how
+ſhamefully ingrateful are we to ſome of theſe publick Patriots, when notwithſtanding all
+their paſt ſervices, and preſent ſufferings in the Cauſe of their Country, we are like
+dumb Dogs that cannot bark on their behalf; being rather ready (as were the <hi>Jews</hi> in the
+Caſe of the Lord of life) to cry, Hang and Head thoſe
+<pb n="3" facs="tcp:115508:3"/>
+who would have us ſav'd from ſlavery, then we are any ways ſympathizers with their ſorrows
+and ſufferings for our ſakes. And therefore ſeeing that faithful ſervant and ſufferer for
+his Country, Major General <hi>Overton,</hi> bears above <hi>four</hi> years bonds and
+baniſhment, with ſo much patience and ſilence, under many and unparallel'd op<g ref="char:EOLhyphen"/>preſſions,
+and none on his behalf breathing out thoſe cries and complaints, which his Caſe deſervedly
+com<g ref="char:EOLhyphen"/>mands from every true <hi>Engliſh-man:</hi> I was weary with forbearing, and reſolved
+(coſt what it may) to preſent his Caſe to publick view, for a witneſs againſt thoſe,
+who contrary to all Law, Reaſon, Religion or Cuſtom of ei<g ref="char:EOLhyphen"/>ther <hi>Turks</hi> or
+<hi>Heathens,</hi> moſt arbitrarily have puniſhed him both in Perſon and Eſtate, without
+ever exhibiting the leaſt Charge or Crime, or bringing him to any Tryal or Examination; but have
+perſecuted him for this very Cauſe, and no other (whatever any Time-ſerving Tra<g ref="char:EOLhyphen"/>panners may
+pretend) that he yet remains faithful to the <hi>Good old Cauſe,</hi> when others have revolted
+from it: yea, could it be but comprehended in any convenient room, it might be made manifeſt to
+the World, that he was ſo far from managing any deſign againſt the late <hi>Protector</hi> in
+<hi>Scotland,</hi> that ſome who either imployed themſelves, or were ſet on work by others
+(as is moſt likely) had de<g ref="char:EOLhyphen"/>ſigned drawing of him into that which would have given them
+opportunity to have deſtroyed him with a colour of Juſtice: and therefore he was repreſented
+as guilty in <hi>Scotland,</hi> as the Plot hatched in <hi>England</hi> would have rendred him, if
+it had proved ſucceſsful; but the Lord de<g ref="char:EOLhyphen"/>livered him out of that ſnare, and other Trapanning
+tricks laid for him in the <hi>Tower,</hi> by thoſe who were ſoon fetched forth, or rather
+removed themſelves out of that place, when they could faſten nothing upon him. Theſe
+<pb n="4" facs="tcp:115508:4"/>
+things here only hinted, may in due time be ſo circum<g ref="char:EOLhyphen"/>ſtantiated, that any obſerving eye may
+eaſily read, how ſome had deſign'd his ruine: But becauſe I intend to con<g ref="char:EOLhyphen"/>fine my ſelf to
+a ſhort Breviate of his Caſe, I ſhall ac<g ref="char:EOLhyphen"/>cordingly proceed.</p>
+            <p>It is not unknown to many who have had any judicious inſpection into the late publike
+tranſactions of theſe times, how that this Noble Spirited Man, being before the Wars a Captain
+of the Trayn'd-Bands in his Coun<g ref="char:EOLhyphen"/>try, was in judgment and Conſcience (for defence of this Nation
+from thoſe incurſions that were ready to break in upon the Freedoms and Liberties of
+<hi>Engliſh-men</hi>) ſo conjured by an Order of the Houſe of Commons, that he was ingaged at
+<hi>Hull</hi> in the Forlorn-Hope of theſe late Wars, to the great hazard both of Perſon and
+Eſtate, the Parliament having then no conſiderable Force on foot. What faithful and
+ſignificant ſervices he per<g ref="char:EOLhyphen"/>formed during the late Wars both in <hi>England</hi> and
+<hi>Scot<g ref="char:EOLhyphen"/>land,</hi> eſpecially in that never to be forgotten expedition into <hi>Fife,</hi> let
+his greateſt Enemies ſpeak for him: and how he oppoſed the very peeping forth of any private
+in<g ref="char:EOLhyphen"/>tereſt againſt the publike proſecution of the <hi>Good old Cauſe,</hi> remains yet
+freſh in the memories of many: but this being ſufficient for his Services, I ſhall proceed to
+his Sufferings.</p>
+            <p>When the little Parliament was diſſolved, and the late General had taken upon him the Chief
+Magiſtracie of theſe Nations, under the Title of Lord <hi>Protector;</hi> there came down to
+him at <hi>Hull,</hi> where he was then Governor, the form of an <hi>Addreſs,</hi> with a Letter,
+enjoyning him, the Officers and Souldiers of that place, to ſubſcribe the ſame; but
+conceiving it oppugnant to the deſigns and end of the late Wars, and contrary to thoſe Oaths
+and
+<pb n="5" facs="tcp:115508:4"/>
+Ingagements he was concern'd in, he oppos'd and de<g ref="char:EOLhyphen"/>clined it, and immediately came up to
+<hi>London,</hi> and de<g ref="char:EOLhyphen"/>clared his diſſatisfaction to the late <hi>Protector;</hi> who having
+ſeveral times debated the Caſe with him, but unable throughly to convince him of the reality of
+the <hi>neceſſities</hi> alleadged; after a moſt tedious attendance under ſuſ<g ref="char:EOLhyphen"/>pence, he
+accepted of a Commiſſion for <hi>Scotland,</hi> upon this conſideration, that he was free to
+ingage againſt the Common Enemy; informing the ſaid <hi>Protector,</hi> that if he proſecuted
+the publike good of theſe Nations, he would ſerve him with his life and fortune; but in caſe
+it ſhould otherwiſe appear, that he had deſigned propagating of his own intereſt upon the
+ruines of the Rights and Liber<g ref="char:EOLhyphen"/>ties of the People of <hi>England,</hi> he could not, nor would not
+ſet one foot before another to ſerve him: wherewith the <hi>Protector</hi> ſeem'd ſo well
+pleaſed, that he told him, he was a Knave if he did otherwiſe.</p>
+            <p n="2">2. After he was gone into <hi>Scotland,</hi> and had diſchar<g ref="char:EOLhyphen"/>ged thoſe intruſtments
+committed to him, upon informa<g ref="char:EOLhyphen"/>tion of the Recognition impoſed upon the firſt
+<hi>Parliament</hi> ſucceeding that change of Government, his diſſatisfacti<g ref="char:EOLhyphen"/>on was ſo
+revived, that he was upon a return for <hi>England,</hi> to have reſigned up his Commiſſion;
+but (ſome being unwilling to part with him ſo peaceably) a deſign was ſo laid againſt him
+(as in time may be made more ma<g ref="char:EOLhyphen"/>nifeſt) that before he could put that reſolution in
+pra<g ref="char:EOLhyphen"/>ctiſe, he was ſecured and ſent away by Sea to the <hi>Tower,</hi> upon pretence of
+endeavoring to divide the Army; occa<g ref="char:EOLhyphen"/>ſioned only by an inoffenſive procedure of ſome few
+Ofi<g ref="char:EOLhyphen"/>cers towards an <hi>Addreſs</hi> they had propoſed to preſent to the then
+<hi>Protector.</hi> I ſay, the <hi>pretence</hi> only, was pallia<g ref="char:EOLhyphen"/>ted by that procedure. For it
+may be made manifeſt by ſeveral particulars, that Orders and preparations for ſe<g ref="char:EOLhyphen"/>curing
+<pb n="6" facs="tcp:115508:5"/>
+him, preceded that which was pretended the great <hi>plot.</hi>
+            </p>
+            <p n="3">3. After he had been <hi>two</hi> dayes in the <hi>Tower,</hi> there came an Order for his
+cloſe confinement; which continu<g ref="char:EOLhyphen"/>ed with much force and violence upon him, untill he was
+baniſhed out of that bondage: during all which time, be<g ref="char:EOLhyphen"/>ing full <hi>three years,</hi> he was
+(notwithſtanding all his former faithful Services) more ſtrictly dealt with, then any
+Priſoner in that place; his Wife and Children for a long time not being ſuffered to ſee him,
+his friends from time to time denied alſo that liberty; ſome affronted by Gaolers, Warders, and
+Officers and Souldiers, and o<g ref="char:EOLhyphen"/>thers very uncivilly uſed and treated, for endeavoring to ſee
+him: ſometimes he hath been ſo cloſe confin'd, that he had contracted ſuch diſtempers, as
+had almoſt ruin'd his Body; and when the ſame was ſignified to the <hi>Lieu<g ref="char:EOLhyphen"/>tenant</hi> of
+the <hi>Tower,</hi> yet he poſitively refuſed liberty for his walking.</p>
+            <p>To enumerate all thoſe paſſages of oppreſſion and per<g ref="char:EOLhyphen"/>ſecution, which he encountred
+in thoſe <hi>three years</hi> bondage, would be too tedious: only this in general, I will
+aſſert, that not one ſtone was left unturn'd by Trapanning tricks and dvices, and other
+inventions of ſome, who are only ingenious that way, which could conduce to the breaking of his
+Spirit, under the heavie yoaks laid upon him; that ſo he might either have been tired forth of
+his integrity, or ingaged into ſome ſuch procedure, as might have given his Enemies opportunity
+of revenge.</p>
+            <p>Again, fourthly. At his firſt comming into the <hi>Tower,</hi> he did by ſeveral Letters
+importune the deceaſed <hi>Portector</hi> for a Tryal; which hath been oft ſince ſeconded by
+Relations and friends, but could never be granted.</p>
+            <p n="5">5. The ſaid <hi>Protector</hi> by his own private Order, con<g ref="char:EOLhyphen"/>trary
+<pb n="7" facs="tcp:115508:5"/>
+to all Law and Juſtice, diſpoſſeſt the ſaid Major Ge<g ref="char:EOLhyphen"/>neral <hi>Overton,</hi> before he
+was priſoner, of 400 <hi>
+                  <abbr>l.</abbr> per annum</hi> given him by <hi>Act</hi> of Parliament,
+and aſſigned him forth of the <hi>Earl</hi> of <hi>Levens</hi> Eſtate: and having after that
+given order for proviſion to be made him out of ſome other E<g ref="char:EOLhyphen"/>ſtate, hath ſince his
+impriſonment, by another Order required the Commiſſioners for that affair in
+<hi>Scotland</hi> to forbear either the paying him mony, or aſſigning him land. If ſuch
+practiſes as theſe have either the Authority of Law, Reaſon, or Religion, let all the world
+judge: for puniſhment before conviction, where there is the greateſt plea of crime, is by our
+Laws and the very Hea<g ref="char:EOLhyphen"/>thens accounted a moſt high injury. What injuſtice is it then to continue
+a faithful ſervant to his Country, un<g ref="char:EOLhyphen"/>der a cloſe and cruel confinement for above <hi>four
+years,</hi> and take away his Eſtate from him without any colour of crime, or other Cauſe, then
+a neceſſity to make good this Atheiſtical Maxime, of expiating leſſer evils by
+commit<g ref="char:EOLhyphen"/>ting greater? ſo that he muſt be continued upon the pre<g ref="char:EOLhyphen"/>tence of a Cauſe, becauſe he
+was firſt committed without a Cauſe: and thus the reputation of a State or Perſon in Power,
+muſt be preſerved out of the ruines of thoſe whom they either perſecute out of hatred, or
+proſecute upon mi<g ref="char:EOLhyphen"/>ſtaken grounds; which is ſuch Reaſon of State as no Re<g ref="char:EOLhyphen"/>ligion but
+<hi>Machiavel's</hi> will ſubſcribe to.</p>
+            <p n="6">6. After he had continued <hi>three years</hi> cloſe priſoner, and had contracted
+ſuch weakneſs of body, that a violent remove out of one extream into another, could promiſe
+nothing but preſent death in all probability; yet was he hurried away (without any convenient
+notice for pre<g ref="char:EOLhyphen"/>paration) from a cloſe confinement in the <hi>Tower</hi> (not knowing whither) to
+the <hi>Downs</hi> by <hi>Deal Caſtle,</hi> and from thence to the Iſle of <hi>Jerſey</hi>
+(one of the moſt dangerous
+<pb n="8" facs="tcp:115508:6"/>
+winter voyages in the world, in the great ſnowy &amp; froſty ſeaſon in <hi>January</hi>
+1657. where he was confin'd to ſuch an old rotten windy room, that he could not that winter (and
+ſo I beleeve this) be kept warm in his bed, but continu<g ref="char:EOLhyphen"/>ally cried out, and complained in the
+night of aches in his limbs and wounds; which ſo diſabled him from uſing his legs, that he
+could not a few months ago, walk in his chamber without a ſtick in his hand; and yet before this
+his cruel confinement, he was known to be as active and able bodied a man, and free from any
+diſtemper, as moſt.</p>
+            <p n="7">7. That this tedious impriſonment hath expoſed him to ſuch extraordinary charges and
+other diſadvantages, and this baniſhment at ſo great a diſtance from his concern<g ref="char:EOLhyphen"/>ments and
+Relations (his wife being neceſſitated, becauſe of his weakneſs, to be with him; by which
+means his Fa<g ref="char:EOLhyphen"/>mily of ſmall children are left Fatherleſs and Motherleſs) ſo drives him down
+the hill, that hee's much more damni<g ref="char:EOLhyphen"/>fied in his Eſtate by this cauſleſs confinement
+(beſides the deteinure of his Donative in <hi>Scotland</hi>) then he was by the <hi>Cavaleer</hi>
+Enemy, who plundered him in the time of Wars of above 2000 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+            </p>
+            <p n="8">8. That although ſeveral applications have been made to this <hi>Protector</hi> and his
+Council by the Priſoners Siſter, and his Caſe ſo laid before them, both in her pub<g ref="char:EOLhyphen"/>like
+Addreſſes and other private informations, that ſhe hath profeſt (as well ſhe might) that
+ſhe knew not whe<g ref="char:EOLhyphen"/>ther ſhe petitioned for a dead or living Brother; Yet moſt ſeem to be ſo
+far from Bowels of compaſſion (though this <hi>Protector</hi> himſelf diſcovered ſome
+ſenſe of the oppreſ<g ref="char:EOLhyphen"/>ſeds ſuffrings to his Siſter, when ſhe perſonally addreſt her
+ſelf to him) &amp; ſome are ſo fill'd with malignity and enmi<g ref="char:EOLhyphen"/>ty, that notwithſtanding they
+had ſeem'd really reſolv'd to releaſe him, and continually ſo incouraged his Siſter and
+<pb n="9" facs="tcp:115508:6"/>
+others to beleeve it, that his friends have declined making proviſion for him and his wife; which
+is likely to be of very great dammage to them; yet no relief or juſtice can be had at their
+hands, but they ſeem reſolved to ruine both him and his, and yet there's not one of ten of the
+Court, but will confeſs, that he hath had very hard mea<g ref="char:EOLhyphen"/>ſure; yea, thoſe who would in every
+thing plead for the integrity of the deceaſed <hi>Protector,</hi> condemned him in this Caſe of
+Major General <hi>Overton.</hi>
+            </p>
+            <p>And now to come to a Concluſion, I do hereby in his name, and on his behalf, appeal to the
+Conſciences of all the Court, or any his greateſt Enemies; Whether they are not ere this time
+convinced and ſatisfied that the Jea<g ref="char:EOLhyphen"/>louſies or pretences againſt him in <hi>Scotland,</hi>
+have proved upon the ſtricteſt examinations to be <hi>Clouds without the leaſt water, and
+high ſwelling appearances of nothing.</hi> But whe<g ref="char:EOLhyphen"/>ther they will acknowledge ſo much or no,
+yet I will ſeal the truth of this with my blood, if the Lord ſhall call me to it; and be able
+to demonſtrate to any unbyaſſed judg<g ref="char:EOLhyphen"/>ment, that he did not in the leaſt, either directly or
+indi<g ref="char:EOLhyphen"/>rectly, deſign, endeavor, or propagate any thing, that either naturally in it ſelf, or
+intentionally in him (what<g ref="char:EOLhyphen"/>ever ends others might have had by a Trapanning influ<g ref="char:EOLhyphen"/>ence upon them)
+that tended to divide the Army into any mutinous attempts or procedures, either there or
+elſe<g ref="char:EOLhyphen"/>where. Nay, we call upon thoſe who have a notable faculty (beſides their tittle-tatling
+in private) in extra<g ref="char:EOLhyphen"/>cting, or rather extorting informations againſt thoſe whoſe ruines they
+are reaching after, to produce whate<g ref="char:EOLhyphen"/>ver they have collected by their moſt induſtrious
+inquiſi<g ref="char:EOLhyphen"/>tions. And let all the time-ſerving Trapanners of this Treacherous day (whom the great
+God of Heaven and Earth, notwithſtanding all their Atheiſm, will in his time
+<pb n="10" facs="tcp:115508:7"/>
+judge) bring in likewiſe the Auxiliaries of their cauteri<g ref="char:EOLhyphen"/>zed Conſciences (to ſpeak as
+ſoberly of ſuch a generation of men as <hi>I</hi> can) that ſo the moſt curious Criticks of
+the Court may conjure up the life and Soul of the ſenſe of all they can heap up together, and
+we ſhall defie its ſig<g ref="char:EOLhyphen"/>nifying any thing more then diſſatisfaction; and then let his Text
+be judge in the Caſe, wherein the Prophet <hi>Eſay</hi> ſpeaking of the downfall of Tyrants,
+ſaith, <hi>That the terrible one is brought to nought, and the ſcorner is conſumed, that make
+a man an offender for a word, and lay ſnares for him that reproveth in the gate.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
